@@ -64,7 +64,6 @@ body {
     border-radius: 5px;
     position: relative;
     transition: 0.5s ease;
-    background-size: 200%;
 }
 
 .loginDiv button:hover {

@@ -17,7 +17,7 @@ function Login() {
                     </div>
                 </div>
                 <div className='loginDiv'>
-                    <button>Login</button>
+                    <button style={{backgroundSize: "200%"}}>Login</button>
                     <a href="#">Esqueceu a senha?</a>
                 </div>
             </div>
